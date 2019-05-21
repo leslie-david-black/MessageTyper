@@ -13,7 +13,6 @@ public class MessageTyper {
 		int interval = 65;
 		int placeInString = 0;
 
-                //change to feature
 		try { 
 			for (int index = 0; index < text.length(); index++) {
 
